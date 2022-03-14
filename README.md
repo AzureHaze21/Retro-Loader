@@ -8,3 +8,5 @@ Create a folder called 'backup' in the same folder as Dofus.exe
 Put the original loader.swf inside
 
 Replace loader.swf
+
+/menu in game for a list of commands
