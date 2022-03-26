@@ -11,4 +11,4 @@ Replace loader.swf
 
 /menu in game for a list of commands
 
-![image](https://user-images.githubusercontent.com/30935238/160218463-82fa34b7-1299-4d14-929d-0149102bc0de.png)
+![image](https://user-images.githubusercontent.com/30935238/160218483-f0f171da-b1f6-407f-b80e-5cd61c57f03f.png)
