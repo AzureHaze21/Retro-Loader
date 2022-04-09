@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+	<item type="menu" label="Auto-Join">
+		<item type="sendChat" label="No delay" command="/join %p 0" />
+		<item type="sendChat" label="500ms" command="/join %p 500" />
+		<item type="sendChat" label="1s" command="/join %p 1000" />
+		<item type="sendChat" label="1.5s" command="/join %p 1500" />
+		<item type="sendChat" label="2s" command="/join %p 2000" />
+		<item type="sendChat" label="2.5s" command="/join %p 2500" />
+		<item type="sendChat" label="3s" command="/join %p 3000" />
+		<item type="sendChat" label="3.5s" command="/join %p 3500" />
+		<item type="sendChat" label="4s" command="/join %p 4000" />
+	</item>
+	
+	<item type="sendChat" label="Stop Join" command="/join"/>
+	<item type="sendChat" label="Auto-Follow" command="/follow %id"/>
+	<item type="sendChat" label="Stop Follow" command="/follow" />
+
+	<item type="loadXML" label="Reload Menu"/>
+
+		<item type="menu" label="Infos">
+			<item type="static" label="Name: %p"/>
+			<item type="static" label="Id: %id"/>
+			<item type="static" label="Guild: %g"/>
+			<item type="static" label="Server: %s"/>
+			<item type="static" label="Map id: %m"/>
+			<item type="static" label="Cell id: %c"/>
+			<item type="static" label="Date: %d"/>
+			<item type="static" label="Version: %v"/>
+			<item type="static" label="Version: %s"/>
+
+		</item>
+	</item>
+	
+
+</menu>
